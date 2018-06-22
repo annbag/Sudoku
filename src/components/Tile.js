@@ -1,4 +1,4 @@
-import React frmo 'react';
+import React from 'react';
 
 class Tile extends React.Component {
 	constructor(props){

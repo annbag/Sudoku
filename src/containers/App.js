@@ -1,5 +1,14 @@
 import React from 'react';
 
+class App extends React.Component {
+	constuctor(props){
+		super(props);
+		this.state = {
+			initialBoard: '',
+			board: ''
+		}
+	}
+}
 
 //szkic
 render() {

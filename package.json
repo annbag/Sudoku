@@ -13,6 +13,7 @@
     "react-dom": "^16.4.1"
   },
   "dependencies": {
-    "react-script": "^2.0.5"
+    "react-script": "^2.0.5",
+    "sudoku-umd": "^1.0.1"
   }
 }
